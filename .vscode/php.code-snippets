@@ -189,7 +189,7 @@
 },
 
 "Form Registration": {
-  "prefix": "form",
+  "prefix": "forms",
   "body": [
     "<?php ",
     "require __DIR__ . '../db.php';",
